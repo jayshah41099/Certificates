@@ -21,3 +21,5 @@ Jr_Penetration_Tester_Tryhackme - https://tryhackme-certificates.s3-eu-west-1.am
 
 Advent_Cyber22_TryHackme - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ACZBAK0SDN.png
 
+Web_Fundamentals_TryHackme - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LKEMFECWFJ.png
+
