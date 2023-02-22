@@ -28,6 +28,8 @@ Fundamentals _of_Network_Security_Palo_Alto_Networks - https://beacon.paloaltone
 
 Hacking_4_Homeland_Security_Common_Mission_Project - https://basno.com/d37r9xn2
 
+CompTIA_Pentest+_Tryhackme - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUU5MEUI0N.png
+
 Jr_Penetration_Tester_Tryhackme - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BS90RLJEMB.png
 
 Advent_Cyber22_TryHackme - https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ACZBAK0SDN.png
