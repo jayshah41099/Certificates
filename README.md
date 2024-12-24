@@ -39,4 +39,6 @@
     https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U2OHBCBSHI.pdf
 20. Vulnerability_Management_Foundation_Qualys -
     https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_95e53cf4-9827-4718-ac36-f21dba607d72.pdf
-21.
+21. Vulnerability_Management_Detection_and_Response_Qualys_Certifications -
+    https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_b4b49019-086f-4124-9037-769e4a226b32.pdf
+    
