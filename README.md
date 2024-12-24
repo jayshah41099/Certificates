@@ -35,3 +35,5 @@
     https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MIW8YHYMLO.png
 18. Penetration_Testing,Incident_Response_and_Forensics_IBM -
     https://www.credly.com/badges/72a61c6a-45bd-4109-99c4-870a62487d11/public_url
+19. Advent_of_Cyber_20234_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U2OHBCBSHI.pdf
