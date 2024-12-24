@@ -37,3 +37,6 @@
     https://www.credly.com/badges/72a61c6a-45bd-4109-99c4-870a62487d11/public_url
 19. Advent_of_Cyber_20234_Tryhackme -
     https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U2OHBCBSHI.pdf
+20. Vulnerability_Management_Foundation_Qualys -
+    https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_95e53cf4-9827-4718-ac36-f21dba607d72.pdf
+21.
