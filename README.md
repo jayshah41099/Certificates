@@ -35,7 +35,7 @@
     https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MIW8YHYMLO.png
 18. Penetration_Testing,Incident_Response_and_Forensics_IBM -
     https://www.credly.com/badges/72a61c6a-45bd-4109-99c4-870a62487d11/public_url
-19. Advent_of_Cyber_20234_Tryhackme -
+19. Advent_of_Cyber_2024_Tryhackme -
     https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U2OHBCBSHI.pdf
 20. Vulnerability_Management_Foundation_Qualys -
     https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_95e53cf4-9827-4718-ac36-f21dba607d72.pdf
@@ -43,4 +43,5 @@
     https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_b4b49019-086f-4124-9037-769e4a226b32.pdf
 22. AI_Security_Governance_Securiti_Certification -
     https://education.securiti.ai/verification/139324C58-13932279F-1330E2F00/
-    
+23. Advent_of_Cyber_2025_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4PPAHUSW3O.pdf    
