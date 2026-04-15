@@ -44,4 +44,6 @@
 22. AI_Security_Governance_Securiti_Certification -
     https://education.securiti.ai/verification/139324C58-13932279F-1330E2F00/
 23. Advent_of_Cyber_2025_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4PPAHUSW3O.pdf    
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4PPAHUSW3O.pdf
+24. Certified_in_Cybersecurity_ISC(2) -
+    https://www.credly.com/badges/35f561b6-e638-480e-8b29-3dcaca1057fa/public_url
