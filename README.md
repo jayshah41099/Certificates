@@ -2,17 +2,17 @@
 AI_Security
 
 1. AI_Security_Governance_Securiti_Certification -
-    https://education.securiti.ai/verification/139324C58-13932279F-1330E2F00/
+   https://education.securiti.ai/verification/139324C58-13932279F-1330E2F00/
 
 Cisco
 
 2. Introduction_to_Cybersecurity_CERT_CISCO -
-    https://www.credly.com/badges/ef3da56a-28d5-4aa0-ab26-0718168b0cad/public_url
+   https://www.credly.com/badges/ef3da56a-28d5-4aa0-ab26-0718168b0cad/public_url
 
 Homeland Security
 
 3. Hacking_4_Homeland_Security_Common_Mission_Project -
-    https://basno.com/d37r9xn2
+   https://basno.com/d37r9xn2
 
 IBM
 
