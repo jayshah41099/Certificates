@@ -16,12 +16,12 @@ Homeland Security
 
 IBM
 
-4. CybersecurityComplianceFrameworkSystemAdministration_CERT_IBM -\ 
-    https://www.credly.com/badges/952219c5-8669-463b-beb0-1ddf71b66305/public_url
-5. CybersecurityRoles_ProcessesOperatingSystemSecurity_CERT_IBM -\ 
-    https://www.credly.com/badges/395e2d03-583b-4ebc-9876-07026f1d5781/public_url
-6. IntroductiontoCybersecurityToolsCyberAttacks_CERT_IBM -\ 
-    https://www.credly.com/badges/1e405ca8-6d8f-4516-8c2c-d720d4b3aee3/public_url
+4. CybersecurityComplianceFrameworkSystemAdministration_CERT_IBM -\
+   https://www.credly.com/badges/952219c5-8669-463b-beb0-1ddf71b66305/public_url
+5. CybersecurityRoles_ProcessesOperatingSystemSecurity_CERT_IBM -\
+   https://www.credly.com/badges/395e2d03-583b-4ebc-9876-07026f1d5781/public_url
+6. IntroductiontoCybersecurityToolsCyberAttacks_CERT_IBM -\
+   https://www.credly.com/badges/1e405ca8-6d8f-4516-8c2c-d720d4b3aee3/public_url
 7. NetworkSecurityDatabaseVulnerabilities_CERT_IBM -\
     https://www.credly.com/badges/bd304b34-8b72-482d-a6e7-f381aa2032dd/public_url
 8. Penetration_Testing,Incident_Response_and_Forensics_IBM -\
