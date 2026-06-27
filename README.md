@@ -1,49 +1,75 @@
 # Certificates
-1. Introduction_to_Cybersecurity_CERT_CISCO -
-    https://www.credly.com/badges/ef3da56a-28d5-4aa0-ab26-0718168b0cad/public_url
-2. CybersecurityComplianceFrameworkSystemAdministration_CERT_IBM -
-    https://www.credly.com/badges/952219c5-8669-463b-beb0-1ddf71b66305/public_url
-3. CybersecurityRoles_ProcessesOperatingSystemSecurity_CERT_IBM -
-    https://www.credly.com/badges/395e2d03-583b-4ebc-9876-07026f1d5781/public_url
-4. IntroductiontoCybersecurityToolsCyberAttacks_CERT_IBM -
-    https://www.credly.com/badges/1e405ca8-6d8f-4516-8c2c-d720d4b3aee3/public_url
-5. NetworkSecurityDatabaseVulnerabilities_CERT_IBM -
-    https://www.credly.com/badges/bd304b34-8b72-482d-a6e7-f381aa2032dd/public_url
-6. Introduction_to_Cybersecurity_Palo_Alto_Networks -
-    https://beacon.paloaltonetworks.com/student/award/wBvk5XY7o3WaHEtoBcJkVAUV
-7. Fundamentals_ of_Cloud_Security_Palo_Alto_Networks -
-    https://beacon.paloaltonetworks.com/student/award/yXZexQvue4Da2HJnnDduYV17
-8. Fundamentals _of_Network_Security_Palo_Alto_Networks -
-    https://beacon.paloaltonetworks.com/student/award/T1jEJ8A9KRwoUiP9pyB4PjZX
-9. Hacking_4_Homeland_Security_Common_Mission_Project -
-    https://basno.com/d37r9xn2
-10. Jr_Penetration_Tester_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BS90RLJEMB.png
-11. Advent_Cyber22_TryHackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ACZBAK0SDN.png
-12. Security_Engineer_TryHackMe -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EIGMKROSLU.png
-13. CompTIA_Pentest+_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUU5MEUI0N.png
-14. Introduction_to_Cybersecurity_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-L16Y1OQFES.png
-15. Pre_Security_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YIXVSPZQU2.png
-16. Web_Fundamentals_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LKEMFECWFJ.png
-17. Complete_Beginner_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MIW8YHYMLO.png
-18. Penetration_Testing,Incident_Response_and_Forensics_IBM -
-    https://www.credly.com/badges/72a61c6a-45bd-4109-99c4-870a62487d11/public_url
-19. Advent_of_Cyber_2024_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U2OHBCBSHI.pdf
-20. Vulnerability_Management_Foundation_Qualys -
-    https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_95e53cf4-9827-4718-ac36-f21dba607d72.pdf
-21. Vulnerability_Management_Detection_and_Response_Qualys_Certification -
-    https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_b4b49019-086f-4124-9037-769e4a226b32.pdf
-22. AI_Security_Governance_Securiti_Certification -
+AI_Security
+
+1. AI_Security_Governance_Securiti_Certification -
     https://education.securiti.ai/verification/139324C58-13932279F-1330E2F00/
-23. Advent_of_Cyber_2025_Tryhackme -
-    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4PPAHUSW3O.pdf
-24. Certified_in_Cybersecurity_ISC(2) -
+
+Cisco
+
+2. Introduction_to_Cybersecurity_CERT_CISCO -
+    https://www.credly.com/badges/ef3da56a-28d5-4aa0-ab26-0718168b0cad/public_url
+
+Homeland Security
+
+3. Hacking_4_Homeland_Security_Common_Mission_Project -
+    https://basno.com/d37r9xn2
+
+IBM
+
+4. CybersecurityComplianceFrameworkSystemAdministration_CERT_IBM - 
+    https://www.credly.com/badges/952219c5-8669-463b-beb0-1ddf71b66305/public_url
+5. CybersecurityRoles_ProcessesOperatingSystemSecurity_CERT_IBM - 
+    https://www.credly.com/badges/395e2d03-583b-4ebc-9876-07026f1d5781/public_url
+6. IntroductiontoCybersecurityToolsCyberAttacks_CERT_IBM - 
+    https://www.credly.com/badges/1e405ca8-6d8f-4516-8c2c-d720d4b3aee3/public_url
+7. NetworkSecurityDatabaseVulnerabilities_CERT_IBM - 
+    https://www.credly.com/badges/bd304b34-8b72-482d-a6e7-f381aa2032dd/public_url
+8. Penetration_Testing,Incident_Response_and_Forensics_IBM -
+    https://www.credly.com/badges/72a61c6a-45bd-4109-99c4-870a62487d11/public_url
+
+ISC(2)
+
+9. Certified_in_Cybersecurity_ISC(2) -
     https://www.credly.com/badges/35f561b6-e638-480e-8b29-3dcaca1057fa/public_url
+
+Palo Alto
+
+10. Introduction_to_Cybersecurity_Palo_Alto_Networks -
+    https://beacon.paloaltonetworks.com/student/award/wBvk5XY7o3WaHEtoBcJkVAUV
+11. Fundamentals_ of_Cloud_Security_Palo_Alto_Networks -
+    https://beacon.paloaltonetworks.com/student/award/yXZexQvue4Da2HJnnDduYV17
+12. Fundamentals _of_Network_Security_Palo_Alto_Networks -
+    https://beacon.paloaltonetworks.com/student/award/T1jEJ8A9KRwoUiP9pyB4PjZX
+
+Qualys
+
+13. Vulnerability_Management_Foundation_Qualys -
+    https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_95e53cf4-9827-4718-ac36-f21dba607d72.pdf
+14. Vulnerability_Management_Detection_and_Response_Qualys_Certification -
+    https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_b4b49019-086f-4124-9037-769e4a226b32.pdf
+
+TryHackme
+
+15. Jr_Penetration_Tester_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BS90RLJEMB.png
+16. Advent_Cyber22_TryHackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ACZBAK0SDN.png
+17. Security_Engineer_TryHackMe -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EIGMKROSLU.png
+18. CompTIA_Pentest+_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-IUU5MEUI0N.png
+19. Introduction_to_Cybersecurity_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-L16Y1OQFES.png
+20. Pre_Security_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YIXVSPZQU2.png
+21. Web_Fundamentals_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LKEMFECWFJ.png
+22. Complete_Beginner_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MIW8YHYMLO.png
+23. Advent_of_Cyber_2024_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U2OHBCBSHI.pdf
+24. Advent_of_Cyber_2025_Tryhackme -
+    https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4PPAHUSW3O.pdf
+
+Microsoft
+
