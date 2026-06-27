@@ -73,3 +73,6 @@ TryHackme
 
 Microsoft
 
+25. AI_Skill_Fest_2026 -\
+    https://www.credly.com/badges/5aa787ed-93c8-4f27-a5be-5c5242ee8b8f/public_url
+    
